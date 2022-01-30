@@ -16,12 +16,17 @@ author: Eunice Castro
 navbar-links:
   About Me: "A compilation of all the resources I made/gathered over my undergraduate career"
   Resources:
+    - Resume Tips:
+    - Computational Chemistry:
+    - Applying to Graduate School:
+    - X-Ray Crystallography:
+    - Research:
     - Github Template: "https://beautifuljekyll.com"
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
-# Remove this parameter if you don't want an image in the navbar
+# Remove parameter if you don't want an image in the navbar
 avatar: "/assets/img/avatar-icon.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
